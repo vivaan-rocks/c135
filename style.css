@@ -1,0 +1,40 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+body{
+    background-size: cover;
+}
+.disc-speed{
+    height: 150px;
+    width: 150px;
+}
+.disc-vol{
+    height: 150px;
+    width: 150px;
+}
+#speedlabel{
+    margin: 15px;
+    font-size: 20px;
+}
+#vollabel{
+    margin: 15px;
+    font-size: 20px;
+}
+.volume{
+    float: right;
+}
+.div-speed{
+    float: left;
+}
+.play_button{
+    width: 130px;
+    font-size: 25px;
+    margin-left: 450px;
+}
+canvas{
+    margin-top: 100px;
+    border: 5px solid white;
+    border-radius: 20px;
+}
